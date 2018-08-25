@@ -1,8 +1,6 @@
 # Dodgeball-Fun-Simple
 
-By clicking on the screen,
-
-you can control the ball to move left and right.
+By clicking on the screen,you can control the ball to move left and right.
 
 Let the ball move reasonably to avoid obstacles!
 
